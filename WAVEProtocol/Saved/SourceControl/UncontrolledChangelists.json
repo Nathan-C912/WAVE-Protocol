@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/Character_Skeleton.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/Input/IMC_Default.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/Character_Skeleton_AnimBlueprint.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/BP_Gun.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/A_CharacterWalk.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/Bullet.uasset",
+				"C:/Users/natha/OneDrive/Documents/Unreal Projects/W.A.V.E.Protocol/WAVE-Protocol/WAVEProtocol/Content/FirstPerson/Blueprints/Gun.uasset"
 			]
 		}
 	]
